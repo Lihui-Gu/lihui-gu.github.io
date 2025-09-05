@@ -11,35 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* ​​M.S. in Computer Science​​, Zhejiang University, 2023 - 2026(Expected)
+
+* ​​B.S. in Computer Science and Technology​​, Zhejiang University of Technology, 2019 - 2023 
+  * Computer Aided Design and Graphics System National Key Laboratory, Zhejiang University
+  * School of Computer Science and Technology, Zhejiang University of Technology
+  * Double Major: Computer Science and Technology; Minor: Intelligent Science and Technology
+  * GPA: 4.23/5, Major Ranking: 1/23
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Large Model Inference Optimization Intern​, *Kuaishou* - Keling Technology Department, Beijing 2025.06 - 2025.09:
+  * Optimized feature cache reuse strategy for DiT models by leveraging the similarity of adjacent denoising time-step features. Achieved a 2.5x end-to-end acceleration on the Wan2.1/Hunyuan video generation model and 3.0x on the Flux image generation model, surpassing SOTA solutions like Taylorseer/Easycache under the same acceleration ratio. Nearly lossless 1.4x end-to-end acceleration verified on the un-distilled Keling i2v model.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Navigation Group Algorithm Intern​​, Hangzhou Feibu Technology, Zhejiang, 2024.09-2025.04
+  * ​​Predictive-Interactive Integrated Modeling​​: Designed an end-to-end data-driven model to replace rule-based strategies, enhancing decision-making in complex scenarios.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * ​​Reinforcement Learning Optimization​​: Implemented model iterations based on the PPO algorithm, continuously improving port intersection traffic efficiency and reducing collision risks.
+
+  * ​​Engineering Implementation​​: Reduced average intersection passage time by 0.5s across 1000+ simulation cases, completed real vehicle deployment of the model, and received an S-level performance evaluation during the internship.
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ​​Deep Learning & Inference Optimization​​:
+  * Familiar with DIT/LLM inference optimization techniques, core functionalities of mainstream inference frameworks (vLLM, xDiT), and multi-card distributed inference technology.
+  * Skilled in the underlying implementation of speculative decoding, combining FP8 quantization, communication optimization, tensor parallelism, and CUDA Graph techniques.
+  * Knowledgeable in the implementation details of high-performance fusion operators (Megakernel), achieving extreme acceleration by fusing the entire LLM decoding process into one kernel.
+
+* ​​Industrial Project Experience​​:
+  * Led deep learning/reinforcement learning projects in autonomous driving scenarios (prediction-interaction tasks), with comprehensive experience from algorithm to engineering.
 
 Publications
 ======
