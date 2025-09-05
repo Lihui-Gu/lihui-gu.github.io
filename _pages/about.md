@@ -73,9 +73,9 @@ More info about configuring Academic Pages can be found in [the guide](https://a
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Research Intern, Kling, Kuaishou
+                    Kling AI, Kuaishou
                 </div>
-                May. 2024 - Present <br>
+                2025.06 - Present <br>
                 Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
                 Interests: Controllable Video Generation
             </td>
@@ -86,9 +86,9 @@ More info about configuring Academic Pages can be found in [the guide](https://a
             </td>
             <td style="margin-left:20px;width:60%;vertical-align:middle">
                 <div >
-                    Ph. D. Candidate, Zhejiang University
+                    M.S. Zhejiang University
                 </div>
-                Sep. 2021 - Present <br>
+                Sep. 2023.09 - Present <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=aiy5G0oAAAAJ&hl=en">Haoji Hu</a><br>
             </td>
         </tr>
