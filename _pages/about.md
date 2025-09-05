@@ -54,3 +54,43 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<h2>Experience</h2>
+
+<head>  
+  <style>  
+    table, th, td {  
+      border: 0;  
+    }  
+  </style>  
+</head>
+
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/kuaishou-logo.png">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Research Intern, Kling, Kuaishou
+                </div>
+                May. 2024 - Present <br>
+                Advisor: <a href="https://menghanxia.github.io/">Menghan Xia</a>, <a href="https://xinntao.github.io/">Xintao Wang</a><br>
+                Interests: Controllable Video Generation
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:40%;vertical-align:middle">
+                <img width="750" src="/images/zju-logo.jpg">
+            </td>
+            <td style="margin-left:20px;width:60%;vertical-align:middle">
+                <div >
+                    Ph. D. Candidate, Zhejiang University
+                </div>
+                Sep. 2021 - Present <br>
+                Advisor: <a href="https://scholar.google.com/citations?user=aiy5G0oAAAAJ&hl=en">Haoji Hu</a><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
