@@ -1,152 +1,111 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Lihui Gu",
+    "email": "lihuigu@zju.edu.cn",
+    "phone": "(+86) 15824346819",
+    "website": "https://lihui-gu.github.io",
+    "summary": "AI Infra Engineer at ByteDance. M.S. in Software Engineering from Zhejiang University. Focus on LLM/DiT inference optimization and speculative decoding.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Lihui-Gu",
+        "url": "https://github.com/Lihui-Gu"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "ByteDance",
+      "position": "AI Search ML Infra Engineer",
+      "website": "",
+      "startDate": "2026-01",
+      "endDate": "",
+      "summary": "Multi-modal LLM speculative decoding training and RL post-training async pipeline refactoring."
+    },
+    {
+      "company": "Kuaishou - Keling Technology Department",
+      "position": "Large Model Inference Optimization Intern",
+      "website": "",
+      "startDate": "2025-06",
+      "endDate": "2025-12",
+      "summary": "DiT model feature cache reuse optimization. Work accepted to ICLR 2026."
+    },
+    {
+      "company": "Hangzhou Feibu Technology",
+      "position": "Navigation Group Algorithm Intern",
+      "website": "",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "End-to-end predictive-interactive modeling and RL optimization."
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Zhejiang University",
+      "area": "Software Engineering",
+      "studyType": "M.S.",
+      "startDate": "2023-09",
+      "endDate": "2026-03",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "institution": "Zhejiang University of Technology",
+      "area": "Computer Science and Technology",
+      "studyType": "B.S.",
+      "startDate": "2019-09",
+      "endDate": "2023-06",
+      "gpa": "4.23/5",
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
+  "skills": [
+    {
+      "name": "Deep Learning & Inference Optimization",
+      "level": "",
+      "keywords": [
+        "LLM Inference",
+        "DiT Inference",
+        "Speculative Decoding",
+        "EAGLE3",
+        "vLLM",
+        "xDiT",
+        "CUDA",
+        "FP8",
+        "Tensor Parallelism",
+        "CUDA Graph"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "SCALINGCACHE: Extreme Acceleration of DiTs Through Difference Scaling and Dynamic Interval Caching",
+      "publisher": "ICLR 2026",
+      "releaseDate": "2026-04-25",
+      "website": "",
+      "summary": "DiT model acceleration through feature caching, achieving 2.5x-3.0x end-to-end speedup."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
